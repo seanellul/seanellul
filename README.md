@@ -1,9 +1,12 @@
 ## Salve 👋
 
-> 🤔 Currently immersed in:
-> - Flutter / Dart
-> - Pytorch
-> - Flutter Flame
+Currently immersed in:
+- Flutter / Dart
+- Pytorch
+- Flutter Flame
+  
+Contact: 
+```c2VhbkBzZWFuZWxsdWwuY29t```
 
 > Opensource the World.
 
