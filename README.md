@@ -1,4 +1,11 @@
-## Hi there 👋
+## Salve 👋
+
+> 🤔 Currently immersed in:
+> - Flutter / Dart
+> - Pytorch
+> - Flutter Flame
+
+> Opensource the World.
 
 <!--
 **seanellul/seanellul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
