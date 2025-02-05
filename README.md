@@ -1,9 +1,9 @@
-## Salve 👋
+## Yo 👋
 
 Currently immersed in:
 - Flutter / Dart
 - Pytorch
-- Flutter Flame
+- Godot
   
 Contact: 
 ```c2VhbkBzZWFuZWxsdWwuY29t```
