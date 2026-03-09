@@ -1,6 +1,6 @@
 # Hey, I'm Sean
 
-I build apps, games, and civic tech tools — mostly in Flutter, Godot, and TypeScript. I care about shipping real products and making public information more accessible. Based in Malta.
+I build apps, games, and civic tech tools, mostly in Flutter, Godot, and TypeScript. I care about shipping real products and making tech more accessible. Based in Cayman.
 
 ## Featured Projects
 
