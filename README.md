@@ -11,6 +11,7 @@ I build apps, games, and civic tech tools, mostly in Flutter, Godot, and TypeScr
 | :jigsaw: | **[Kliem](https://github.com/seanellul/kliem)** | The Maltese Wordle — live on iOS & Android, 100+ players |
 | :books: | **[Bookloft](https://github.com/seanellul/bookloft)** | ISBN-scanning inventory app built for the Cayman Humane Society — iOS & Android |
 | :briefcase: | **[Careers Cayman](https://github.com/seanellul/careers_cayman)** | Cayman Islands job board — [careers.ky](https://careers.ky), built for the 2025 Tech Cayman Hackathon |
+| :moneybag: | **[Cheap.ky](https://github.com/seanellul/cheap.ky)** | Cayman Islands price comparison tool — [cheap.ky](https://cheap.ky) |
 | :video_game: | **[Dungeon Agents](https://github.com/seanellul/dungeon_agents)** | Godot dungeon crawler with AI agent behaviors |
 | :wolf: | **[Wolf Engine](https://github.com/seanellul/wolf_engine)** | A Wolfenstein 3D-style raycasting engine built in Pygame |
 | :satellite: | **[Mission Control](https://github.com/seanellul/mission-control)** | Agent operational dashboard — projects, decisions, agents, cron, memory |
@@ -28,7 +29,9 @@ I build apps, games, and civic tech tools, mostly in Flutter, Godot, and TypeScr
 
 ## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=seanellul&hide_border=true)](https://github.com/seanellul)
+<a href="https://github.com/seanellul">
+  <img src="https://streak-stats.demolab.com/?user=seanellul&hide_border=true" alt="GitHub Streak" />
+</a>
 
 ## Contact
 
